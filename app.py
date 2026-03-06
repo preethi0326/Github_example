@@ -7,4 +7,3 @@ b=3
 print(a-b)
 
 # This is a maths problem
-printhjkklks
