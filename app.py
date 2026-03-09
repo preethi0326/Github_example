@@ -6,4 +6,13 @@ a=6
 b=3
 print(a-b)
 
-# This is a maths problem
+a=4
+b=4
+print(a*b)
+
+a=3
+b=3
+print(a/b)
+
+a=2
+print(a^2)
