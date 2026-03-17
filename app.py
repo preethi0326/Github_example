@@ -17,4 +17,5 @@ print(a/b)
 a=2
 print(a^2)
 
-bnvjgdkjsbhd
+a=3
+print(a*3)
